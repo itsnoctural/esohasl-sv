@@ -1,0 +1,2183 @@
+[
+	{
+		"id": "qLlsHYUo",
+		"created_at": "2025-02-16T18:27:44.000Z",
+		"title": "[435K STOCK] Instant UGC",
+		"game_name": "Catalog Avatar Creator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/CatalogAvatarCreator.lua\"))()",
+		"game_id": "7041939546",
+		"views": 3351
+	},
+	{
+		"id": "gmpaNcNw",
+		"created_at": "2025-01-22T15:10:00.000Z",
+		"title": "Instant UGC",
+		"game_name": "NPO ZAPP Wereld",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/NPOZAPP.lua\"))()",
+		"game_id": "132209689300397",
+		"views": 1285
+	},
+	{
+		"id": "qwkA0f2c",
+		"created_at": "2025-01-22T14:08:30.000Z",
+		"title": "Inf. Cash / Auto Farm",
+		"game_name": "✈️Become a Plane and Fly [🌳TREEHOUSE!]",
+		"script": "_G.Theme = \"Dark\"\r\n--Themes: Light, Dark, Red, Mocha, Aqua and Jester\r\n\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/BecomeaPlaneandFly.lua\"))()",
+		"game_id": "18207529184",
+		"views": 2311
+	},
+	{
+		"id": "Yb3vp8Mw",
+		"created_at": "2025-01-19T12:32:04.000Z",
+		"title": "Inf. Cash / Wins / Show Path",
+		"game_name": "Impossible Squid Game! Glass Bridge 2",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/ImpossibleSquidGame.lua\"))()",
+		"game_id": "16993432698",
+		"views": 2626
+	},
+	{
+		"id": "JJ1fXplg",
+		"created_at": "2025-01-18T11:13:24.000Z",
+		"title": "Auto Fast Dig / Piles / Walk",
+		"game_name": "Dig it [DRAGON 🐉]",
+		"script": "-- FrostByte\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/alyssagithub/Scripts/refs/heads/main/FrostByte/Initiate.lua\"))()\r\n\r\n-- Nixius.xyz | Have key system.\r\n-- loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nivex123456/main/refs/heads/main/Loader.lua\"))()",
+		"game_id": "76455837887178",
+		"views": 983
+	},
+	{
+		"id": "N38zODoc",
+		"created_at": "2024-10-29T08:47:12.000Z",
+		"title": "Auto Candy",
+		"game_name": "[Trick or Treat 🎃] Scary Sushi ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/ScarySushi.lua\"))()",
+		"game_id": "16454399300",
+		"views": 754
+	},
+	{
+		"id": "d297CgUt",
+		"created_at": "2024-10-28T12:34:02.000Z",
+		"title": "Inf. Coins / Crates / Hiders ESP",
+		"game_name": "🎃 Hide or Die!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/HideOrDie.lua\"))()",
+		"game_id": "18799085098",
+		"views": 1319
+	},
+	{
+		"id": "yNVgRyAJ",
+		"created_at": "2024-10-26T12:48:06.000Z",
+		"title": "Zap Hub",
+		"game_name": "Universal",
+		"script": "loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()",
+		"game_id": "0",
+		"views": 973,
+		"description": "Games:\r\n- Steep Steps\r\n- Simple Steps\r\n- Every Second You Get +1 Jump Power\r\n- Imposible Ladder Climb Obby\r\n- Westbound\r\n- Big Paintball\r\n- Big Paintball 2\r\n- Blade Ball\r\n- Pet Simulator 99"
+	},
+	{
+		"id": "gA9FLC7o",
+		"created_at": "2024-10-24T16:43:31.000Z",
+		"title": "Auto Max Miners / Prospect / Door / Sell",
+		"game_name": "Mining Tycoon 💎 [Update 3!]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/MiningTycoon.lua\"))()",
+		"game_id": "18920893671",
+		"views": 1493
+	},
+	{
+		"id": "OKdLHx9k",
+		"created_at": "2024-10-24T15:02:39.000Z",
+		"title": "Auto Farm / Candy / Happy Pets / Rainbow",
+		"game_name": "[Free UGC!] Raise a Rainbocorn!🦄 Pets + Roleplay⭐",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/RaiseRainbocorn.lua\"))()",
+		"game_id": "14514619501",
+		"views": 2781
+	},
+	{
+		"id": "o4Zb6wRo",
+		"created_at": "2024-10-21T20:28:23.000Z",
+		"title": "Inf. Cash / Auto Buttons / Rebirth",
+		"game_name": "🏙️ City Defense Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/CityDefenseTycoon.lua\"))()",
+		"game_id": "85141602039510",
+		"views": 1169
+	},
+	{
+		"id": "Awh91mwN",
+		"created_at": "2024-10-18T13:18:25.000Z",
+		"title": "Auto Breakables / Machines / Eat Fruits",
+		"game_name": "PETS GO! ✨ [NEW]",
+		"script": "loadstring(game:HttpGet('https://zaphub.xyz/Exec'))()",
+		"game_id": "18901165922",
+		"views": 361
+	},
+	{
+		"id": "7r3z8enx",
+		"created_at": "2024-10-18T13:16:15.000Z",
+		"title": "Auto Roll / Break / Relics / Digging",
+		"game_name": "PETS GO! ✨ [NEW]",
+		"script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/2529a5f9dfddd5523ca4e22f21cceffa.lua\"))()",
+		"game_id": "18901165922",
+		"views": 425
+	},
+	{
+		"id": "ISVTqXqI",
+		"created_at": "2024-10-17T16:56:54.000Z",
+		"title": "Auto Farm Candy",
+		"game_name": "Murder Mystery 2",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring\"))()",
+		"game_id": "142823291",
+		"views": 2411
+	},
+	{
+		"id": "jjGHsDhm",
+		"created_at": "2024-10-14T15:38:47.000Z",
+		"title": "Auto Food / Boosters",
+		"game_name": "[FREE UGC] Rostic's: Вкусная игра🍗🍟",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/RosticsTastyGame.lua\"))()",
+		"game_id": "130340224098126",
+		"views": 1483
+	},
+	{
+		"id": "E3VAfwFg",
+		"created_at": "2024-10-12T19:25:54.000Z",
+		"title": "Inf. Spins / Money / Auto Buttons",
+		"game_name": "Lilo And Stitch Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/LiloAndStitchTycoon.lua\"))()",
+		"game_id": "104834534396298",
+		"views": 755
+	},
+	{
+		"id": "0uqh8s2X",
+		"created_at": "2024-10-11T18:38:00.000Z",
+		"title": "Instant UGC",
+		"game_name": "SOUR PATCH KIDS Mischief Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/SourHollows.lua\"))()",
+		"game_id": "16984716324",
+		"views": 578
+	},
+	{
+		"id": "YK56LDmL",
+		"created_at": "2024-10-08T15:58:53.000Z",
+		"title": "Auto Hearts",
+		"game_name": "Netflix Nextworld [EARLY ACCESS]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/NetflixNextworld.lua\"))()",
+		"game_id": "15432848623",
+		"views": 620
+	},
+	{
+		"id": "ZARtMe67",
+		"created_at": "2024-10-06T14:06:11.000Z",
+		"title": "Instant UGC / Inf. Spins",
+		"game_name": "[FREE UGC] Вселенная Kari KIDS",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/KariKids.lua\"))()",
+		"game_id": "15169547890",
+		"views": 1136
+	},
+	{
+		"id": "KHqJXnLJ",
+		"created_at": "2024-10-05T18:44:10.000Z",
+		"title": "Auto Boos",
+		"game_name": "[🥚Gold Egg4] Sonic Speed Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/SonicSpeedSim.lua\"))()",
+		"game_id": "9049840490",
+		"views": 1179
+	},
+	{
+		"id": "tbb5G8b6",
+		"created_at": "2024-10-05T15:37:36.000Z",
+		"title": "ESP / Auto Kill",
+		"game_name": "[UGC] SKIBIDI SEEK 🚽",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/SkibidiSeek.lua\"))()",
+		"game_id": "114796728277080",
+		"views": 1008
+	},
+	{
+		"id": "IfB3sp0B",
+		"created_at": "2024-10-04T18:36:38.000Z",
+		"title": "Instant UGC",
+		"game_name": "Мир Самоката",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/MirSamokata.lua\"))()",
+		"game_id": "87477950892341",
+		"views": 1503
+	},
+	{
+		"id": "lihg59ia",
+		"created_at": "2024-10-04T15:42:11.000Z",
+		"title": "Instant UGC",
+		"game_name": "🚗 LIMITED! Car Dealership Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/CarDealershipTycoon.lua\"))()",
+		"game_id": "1554960397",
+		"views": 1326
+	},
+	{
+		"id": "DqcgPId9",
+		"created_at": "2024-10-04T15:05:00.000Z",
+		"title": "Instant UGCs",
+		"game_name": "Tower of Misery",
+		"script": "for _,v in ipairs({81398944312735, 85542509985196, 105112239852380}) do\n\tgame[\"ReplicatedStorage\"].BloxbizRemotes.CatalogOnPromptPurchase:InvokeServer(v); task.wait(8.5)\nend",
+		"game_id": "4954752502",
+		"views": 669
+	},
+	{
+		"id": "086WxH0I",
+		"created_at": "2024-10-04T14:02:14.000Z",
+		"title": "Auto Quests / Activity",
+		"game_name": "Twilight Daycare ✨",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/artemy133563/Utilities/refs/heads/main/TwilightDaycare\"))()",
+		"game_id": "6507422231",
+		"views": 1272
+	},
+	{
+		"id": "tQnPagH4",
+		"created_at": "2024-09-29T14:43:32.000Z",
+		"title": "Silent Aim / ESP / Unlock All Skins",
+		"game_name": "RIVALS",
+		"script": "-- Thao Hub | Keyless\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubRivals\"))()\r\n\r\n-- God Hub | Key: https://ads.luarmor.net/godhub\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua\"))()\r\n\r\n-- Rybowe Hub | 9/29/2024 Key: rybowe_key_ilEI8jRGZHVrDABam8ClG1JYfW8WIhRPEdeF6cN6Gnfo6kDWhT6JDeFBspAwq0Ze\r\nloadstring(game:HttpGet('https://raw.githubusercontent.com/rybowe/rybowescripts/main/release.lua'))()",
+		"game_id": "17625359962",
+		"views": 1239
+	},
+	{
+		"id": "BrsEVv8m",
+		"created_at": "2024-09-28T08:28:00.000Z",
+		"title": "Instant UGC",
+		"game_name": "[Google] Be Internet Awesome World 🌟",
+		"script": "game[\"ReplicatedStorage\"][\"remnantsofsiren_bridgenet2@1.0.1\"].dataRemoteEvent:FireServer(\r\n    {{\"\\1\", \"\\176\\228\\181\\26\\173\\156JU\\187\\138S\\251\\197\\154\\138\\173\", {\"UpdatePlayerStars\", 3}}, \"\\3\"}\r\n)",
+		"game_id": "17756790122",
+		"views": 356
+	},
+	{
+		"id": "leFSq8XE",
+		"created_at": "2024-09-27T19:29:58.000Z",
+		"title": "Auto Farm / Cash / Upgrade / Buttons",
+		"game_name": "MAKE EVERYONE BALD TYCOON [HARDCORE 😤]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/MAKEEVERYONEBALD.lua\"))()",
+		"game_id": "120797319068429",
+		"views": 780
+	},
+	{
+		"id": "FgEC1uG3",
+		"created_at": "2024-09-26T14:19:55.000Z",
+		"title": "Instant UGC",
+		"game_name": "Amazon's Joyful Horizons - Find the Stickers [20]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/AmazonsJoyfulHorizons.lua\"))()",
+		"game_id": "13451596695",
+		"views": 400
+	},
+	{
+		"id": "w7JogzTf",
+		"created_at": "2024-09-26T10:47:14.000Z",
+		"title": "Auto Buttons / Coins / Rebirth",
+		"game_name": "My Little Pony Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/MyLittlePonyTycoon.lua\"))()",
+		"game_id": "135777599621393",
+		"views": 1024
+	},
+	{
+		"id": "GvpXKJVm",
+		"created_at": "2024-09-24T17:46:48.000Z",
+		"title": "Inf. Tickets / Auto Rebirth",
+		"game_name": "L'Oreal Paris Catwalk Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/LorealParis.lua\"))()",
+		"game_id": "81493541492179",
+		"views": 1730
+	},
+	{
+		"id": "bCBa2Kws",
+		"created_at": "2024-09-22T14:00:07.000Z",
+		"title": "Auto Buttons / Collect / Rebirth",
+		"game_name": "Marble Run Tycoon 2",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/MarbleRunTycoon2.lua\"))()",
+		"game_id": "15893134455",
+		"views": 900
+	},
+	{
+		"id": "ZnLKXfpN",
+		"created_at": "2024-09-22T12:22:19.000Z",
+		"title": "Auto Farm / Treasure / Fast Order",
+		"game_name": "[Limited Free UGC]My Hello Kitty Cafe(Tycoon)",
+		"script": "(loadstring(game:HttpGet(\"https://raw.githubusercontent.com/OneCreatorX-New/TwoDev/main/Loader.lua\"))())(\"9346039031\")",
+		"game_id": "9346039031",
+		"views": 2131
+	},
+	{
+		"id": "oeFQ0eik",
+		"created_at": "2024-09-21T16:24:44.000Z",
+		"title": "Fast UGC / Auto Help",
+		"game_name": "[UGC] Sparkles Magical Market Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/SparklesMagical.lua\"))()",
+		"game_id": "16559299291",
+		"views": 1708
+	},
+	{
+		"id": "xTQI3l7y",
+		"created_at": "2024-09-21T15:06:36.000Z",
+		"title": "Auto Wins / Click / Rebirth",
+		"game_name": "Meme Race 😂",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/MemeRace.lua\"))()",
+		"game_id": "18778623849",
+		"views": 5567
+	},
+	{
+		"id": "APP1LP8U",
+		"created_at": "2024-09-20T14:48:27.000Z",
+		"title": "Fast UGC / Auto Quest",
+		"game_name": "Danimals Adventure World",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/DanimalsAdventureWorld.lua\"))()",
+		"game_id": "16733634144",
+		"views": 243
+	},
+	{
+		"id": "sLoIG76e",
+		"created_at": "2024-09-19T15:07:11.000Z",
+		"title": "Auto Food / Speed Hack",
+		"game_name": "Ball Eating Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/refs/heads/main/BallEatingSim.lua\"))()",
+		"game_id": "15352354257",
+		"views": 2657
+	},
+	{
+		"id": "21uTaNON",
+		"created_at": "2024-09-17T15:02:18.000Z",
+		"title": "Instant UGC / Auto Hole",
+		"game_name": "[FREE TIGER HEAD UGC] Golf - Just Swing by The R&A",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/GolfJustSwing.lua\"))()",
+		"game_id": "17741449621",
+		"views": 420
+	},
+	{
+		"id": "tAwMPqjP",
+		"created_at": "2024-09-16T19:41:06.000Z",
+		"title": "Fast UGC / Auto Kill",
+		"game_name": "FREE UGC! Netflix Nextworld [GEEKED WEEK '24]",
+		"script": "local ReplicatedStorage = game:GetService(\"ReplicatedStorage\")\r\nlocal Workspace = game:GetService(\"Workspace\")\r\n\r\nwhile task.wait(.1) do\r\n    ReplicatedStorage.RemoteEvents.FireSlingshot:FireServer(\"SpoilerKing\", Workspace.ActiveEventModels.SpoilerKing.Rig, 3)\r\nend",
+		"game_id": "15432848623",
+		"views": 356
+	},
+	{
+		"id": "qyZW3x6c",
+		"created_at": "2024-09-16T18:05:02.000Z",
+		"title": "Instant UGC",
+		"game_name": "[FREE UGC] Anime Outfits [1000+]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/AnimeOutfits.lua\"))()",
+		"game_id": "15474504316",
+		"views": 222
+	},
+	{
+		"id": "4eKYmEGZ",
+		"created_at": "2024-09-14T17:09:32.000Z",
+		"title": "Inf. Cash / Auto Take / Buttons / Rebirth",
+		"game_name": "🍕 Pizzeria Tycoon 2",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/PizzeriaTycoon2.lua\"))()",
+		"game_id": "18619441869",
+		"views": 444
+	},
+	{
+		"id": "HpYaCEfw",
+		"created_at": "2024-09-14T11:46:21.000Z",
+		"title": "Instant UGCs",
+		"game_name": "Sparkles Magical Market Tycoon",
+		"script": "local Services = game:GetService(\"ReplicatedStorage\").Packages[\"_Index\"][\"dig1t_knit@1.7.1\"].knit.Services\n\nfor i = 1,24 do\n  Services.LevelService.RF.CompleteFirstTimeTutorial:InvokeServer(); task.wait()\nend\n\nwhile task.wait(.5) do\n    for _,v in ipairs({18832882139, 18832890530, 18832927654, 18832935248}) do\n        Services.ShopService.RF.PurchaseUGC:InvokeServer(v); task.wait(1)\n    end\nend",
+		"game_id": "16559299291",
+		"views": 1475
+	},
+	{
+		"id": "4Uk24hGr",
+		"created_at": "2024-09-14T11:10:21.000Z",
+		"title": "Instant UGC",
+		"game_name": "[UGC!] Twilight Daycare ✨",
+		"script": "local HatchimalsQuestService = game:GetService(\"ReplicatedStorage\").Packages.Knit.Services.HatchimalsQuestService\r\n\r\nfor _,v in ipairs(game[\"Workspace\"].BrickSpawns:GetChildren()) do\r\n    game[\"Players\"].LocalPlayer.Character:PivotTo(v:GetPivot()); task.wait(.1)\r\n    fireproximityprompt(v.ProximityPrompt)\r\nend\r\n\r\nHatchimalsQuestService.RE.CompletePersonalityTest:FireServer(\"Flame\")\r\nHatchimalsQuestService.RE.CompleteMinigame:FireServer()\r\nHatchimalsQuestService.RE.ClaimRewards:FireServer(true)",
+		"game_id": "6507422231",
+		"views": 740
+	},
+	{
+		"id": "q7d5OiZN",
+		"created_at": "2024-09-14T09:19:42.000Z",
+		"title": "Inf. Cash / Gems / Auto Merge",
+		"game_name": "Merge for DIAMONDS!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/MergeForDiamonds.lua\"))()",
+		"game_id": "17679933883",
+		"views": 551
+	},
+	{
+		"id": "xU93MtJV",
+		"created_at": "2024-09-13T16:22:42.000Z",
+		"title": "Auto Plushies / Sell",
+		"game_name": "[FREE UGC💖] Collect plushies ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/collectplushies.lua\"))()",
+		"game_id": "100985484341458",
+		"views": 2400
+	},
+	{
+		"id": "E8zkfCw4",
+		"created_at": "2024-09-12T12:00:44.000Z",
+		"title": "[UGC LIMITED] Auto Grab Item / Sell",
+		"game_name": "Fenty Beauty Experience",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/FentyBeautyExperience.lua\"))()",
+		"game_id": "13176058901",
+		"views": 248
+	},
+	{
+		"id": "Whqqczzz",
+		"created_at": "2024-02-26T18:04:38.000Z",
+		"title": "Auto Farm / Collect",
+		"game_name": "[Drill2.0] Bathroom Attack",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/BathroomAttack.lua\"))()",
+		"game_id": "13698105873",
+		"views": 3364
+	},
+	{
+		"id": "6jCNMIbf",
+		"created_at": "2024-02-24T14:37:49.000Z",
+		"title": "Yuki Ware Kill Aura / Auto Mob",
+		"game_name": "Swordburst 3 ⚔️ FREE RELEASE",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/xyzYuuki/SB3/main/MainScript\"))()",
+		"game_id": "11523257493",
+		"views": 2324
+	},
+	{
+		"id": "PJhGe3Re",
+		"created_at": "2024-02-24T14:35:58.000Z",
+		"title": "HolyShz Auto Farm / Quest / Kill Aura",
+		"game_name": "Swordburst 3 ⚔️ FREE RELEASE",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/siradaniy/Script_HSz/main/HSz_Main.lua\"))()",
+		"game_id": "11523257493",
+		"views": 1745
+	},
+	{
+		"id": "v9RRdhrr",
+		"created_at": "2024-02-21T21:08:53.000Z",
+		"title": "[No Limit UGC] Auto Click Kitty",
+		"game_name": "(FREE UGC) jeraldo's home",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/jeraldoshome.lua\"))()",
+		"game_id": "14874319548",
+		"views": 505
+	},
+	{
+		"id": "FMvPmwxJ",
+		"created_at": "2024-02-21T20:53:06.000Z",
+		"title": "Auto Sell / Buy Sneakers / Buttons",
+		"game_name": "Sneaker Resell Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/SneakerResellSim.lua\"))()",
+		"game_id": "12991635726",
+		"views": 11577
+	},
+	{
+		"id": "CIOiHMtu",
+		"created_at": "2024-02-20T20:34:55.000Z",
+		"title": "[UGC LIMITED] Auto Farm",
+		"game_name": "Toilet Merge Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/ToiletMergeTycoon.lua\"))()",
+		"game_id": "15960681844",
+		"views": 725
+	},
+	{
+		"id": "_HQKJt3T",
+		"created_at": "2024-02-19T20:50:03.000Z",
+		"title": "[UGC LIMITED] Auto Spin / Prompt",
+		"game_name": "SUGILITE! | 💖 Spin For FREE UGC! ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/SpinFreeUGC.lua\"))()",
+		"game_id": "16007665119",
+		"views": 1152
+	},
+	{
+		"id": "ynDyiYEF",
+		"created_at": "2024-02-18T13:32:21.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Take Orders / Serve",
+		"game_name": "[UGC] 🍪 Diner Simulator 🍪",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/DinnerSimulator.lua\"))()",
+		"game_id": "9704997034",
+		"views": 1250
+	},
+	{
+		"id": "joQqz_xz",
+		"created_at": "2024-02-17T17:00:04.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "💖VAL Dragon Adventures 🐉 Fantasy Pets 🎊",
+		"script": "game[\"Players\"].LocalPlayer.Remotes.RequestPurchaseUGCRemote:FireServer(16270813835)",
+		"game_id": "3475397644",
+		"views": 1386
+	},
+	{
+		"id": "Thj-qE0P",
+		"created_at": "2024-02-17T10:37:12.000Z",
+		"title": "[UGC LIMITED] Auto Cups / Fast Quest",
+		"game_name": "[FREE UGC] World of Trollge",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/WorldOfTrollge.lua\"))()",
+		"game_id": "12471513793",
+		"views": 1747
+	},
+	{
+		"id": "ljQUPC29",
+		"created_at": "2024-02-16T16:39:50.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "[Versace Update] LensCrafters Eye Odyssey",
+		"script": "game[\"ReplicatedStorage\"].BloxbizRemotes.CatalogOnPromptPurchase:InvokeServer(16302099292,false)",
+		"game_id": "14913354249",
+		"views": 1458
+	},
+	{
+		"id": "s8kW1sR-",
+		"created_at": "2024-02-11T18:08:54.000Z",
+		"title": "[UGC LIMITED] Auto Spin / Obby / Tiny Dominiues",
+		"game_name": "👁️ PEARL | SPIN FOR FREE UGC",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/SpinForUGC.lua\"))()",
+		"game_id": "16224795376",
+		"views": 928
+	},
+	{
+		"id": "GKxV2hm7",
+		"created_at": "2024-02-10T22:08:14.000Z",
+		"title": "[UGC LIMITED] Dupe Guesses",
+		"game_name": "🌙  NOCTIS | GUESS FOR FREE UGC",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/GuessForUGC.lua\"))()",
+		"game_id": "16218052493",
+		"views": 4254
+	},
+	{
+		"id": "9IH1L4rA",
+		"created_at": "2024-02-10T13:28:22.000Z",
+		"title": "[UGC LIMITED] Easy UGC",
+		"game_name": "Sol de Janeiro Universe",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/SoldeJaneiro.lua\"))()",
+		"game_id": "15226984533",
+		"views": 688
+	},
+	{
+		"id": "HhXC_4QO",
+		"created_at": "2024-02-09T20:40:05.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "[NEW FREE LIMITED UGC] Man City Blue Moon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/ManCityBlueMoob.lua\"))()",
+		"game_id": "9616411936",
+		"views": 459
+	},
+	{
+		"id": "ElXPPNzI",
+		"created_at": "2024-02-09T18:20:41.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Eggs",
+		"game_name": "Carry A Friend! (Teamwork Obby)",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/CarryFriend.lua\"))()",
+		"game_id": "14448662003",
+		"views": 896
+	},
+	{
+		"id": "QqVIdTsx",
+		"created_at": "2024-02-08T16:02:56.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "🏆 Free UGC Event",
+		"script": "game[\"ReplicatedStorage\"].FreeUGCComplete:FireServer()\r\n",
+		"game_id": "8718573789",
+		"views": 688
+	},
+	{
+		"id": "THmtH80G",
+		"created_at": "2024-02-08T08:43:13.000Z",
+		"title": "[UGC LIMITED] Inf. Coins / Instant UGC",
+		"game_name": "Burberry at Harrods",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/BurberryHarrods.lua\"))()",
+		"game_id": "15858874898",
+		"views": 638
+	},
+	{
+		"id": "Y-yaq61p",
+		"created_at": "2024-02-07T21:51:37.000Z",
+		"title": "[UGC LIMITED] Auto Bubbles / Quests / Spin",
+		"game_name": "Pop Bubbles for UGC",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/PopBubbles.lua\"))()",
+		"game_id": "16089424098",
+		"views": 1320
+	},
+	{
+		"id": "pN5z9xVM",
+		"created_at": "2023-12-22T11:12:46.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "NIVEA Tower Run",
+		"script": "game:GetService(\"Players\").LocalPlayer.PlayerGui.TalkUIs.Client.ClaimUGC:FireServer()",
+		"game_id": "14978690674",
+		"views": 2861
+	},
+	{
+		"id": "o_zv7HMX",
+		"created_at": "2023-12-20T21:59:57.000Z",
+		"title": "[UGC LIMITED] Auto Tycoon / NPCs",
+		"game_name": "2 Player Sparta Tycoon ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/2PlayerSparta.lua\"))()",
+		"game_id": "13213964876",
+		"views": 1765
+	},
+	{
+		"id": "SxotqCeM",
+		"created_at": "2023-12-20T18:22:50.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "Gucci Gift Shop",
+		"script": "game[\"ReplicatedStorage\"].Orion.node_modules[\"@supersocial\"].netwire.NetWire.Remotes.BuyLimitedUGCService.RF.BuyLimitedUGC:InvokeServer(15686160262)",
+		"game_id": "15560249455",
+		"views": 1265
+	},
+	{
+		"id": "WBmBtaA6",
+		"created_at": "2023-12-20T09:18:25.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "🛫 Liberty Airport Flight Simulator RP",
+		"script": "game[\"Players\"].LocalPlayer.Character:PivotTo(game[\"Workspace\"].UGC.Task2:GetPivot())",
+		"game_id": "5974747216",
+		"views": 1340
+	},
+	{
+		"id": "pqU0jjxd",
+		"created_at": "2023-12-19T18:36:19.000Z",
+		"title": "[UGC LIMITED] Auto Rob Bank",
+		"game_name": "STAR WARS: Project Vardos City",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/StarWarsVardos.lua\"))()",
+		"game_id": "15642340359",
+		"views": 1673
+	},
+	{
+		"id": "S_R19xFM",
+		"created_at": "2023-12-19T14:06:22.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": " [S2] Obby But You’re On a Bike",
+		"script": "local Players, Workspace = game:GetService(\"Players\"), game:GetService(\"Workspace\")\r\nPlayers.LocalPlayer.Character:PivotTo(Workspace.WorldMap.Checkpoints[\"54\"]:GetPivot())",
+		"game_id": "14184086618",
+		"views": 1075
+	},
+	{
+		"id": "dggSiyN4",
+		"created_at": "2023-12-18T20:27:48.000Z",
+		"title": "[UGC LIMITED] Auto Purchase / Sell",
+		"game_name": "Shoe Store Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/ShoeStoreSim.lua\"))()",
+		"game_id": "15090112680",
+		"views": 1240
+	},
+	{
+		"id": "5u4UG8tD",
+		"created_at": "2023-12-18T20:01:53.000Z",
+		"title": "[UGC LIMITED] Auto Farm Candy / Elfs",
+		"game_name": "Anime Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/AnimeSimulator.lua\"))()",
+		"game_id": "15019306302",
+		"views": 502
+	},
+	{
+		"id": "5CC1rf1c",
+		"created_at": "2023-12-18T14:38:05.000Z",
+		"title": "[UGC LIMITED] Instant UGC / Inf. Points",
+		"game_name": "[New!!] Super Hero Obby",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/SuperHeroObby.lua\"))()",
+		"game_id": "15410077867",
+		"views": 1030
+	},
+	{
+		"id": "6GT9YVVH",
+		"created_at": "2023-12-15T20:39:21.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "[FREE LIMITED] Miraculous™ RP: Ladybug & Cat Noir",
+		"script": "game:GetService(\"Players\").LocalPlayer.Character:PivotTo(game:GetService(\"Workspace\")[\"UGC Limited Item\"]:GetPivot())",
+		"game_id": "6377740507",
+		"views": 579
+	},
+	{
+		"id": "5--NgPYx",
+		"created_at": "2023-12-14T14:46:38.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "[🎁 EVENT 🎁] Car Dealership Tycoon",
+		"script": "game[\"ReplicatedStorage\"].Remotes.EventController.Nickmas:FireServer({[\"Action\"] = \"TryToCollectUGC\"})",
+		"game_id": "1554960397",
+		"views": 1323
+	},
+	{
+		"id": "YMUYiEtv",
+		"created_at": "2023-12-14T14:07:10.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "Easy Obby [🎁EVENT🎁]",
+		"script": "for i = 1,550 do game[\"ReplicatedStorage\"].RemoteEvents.Collectible:FireServer(\"Super Bowl LVIII Football\"); task.wait() end",
+		"game_id": "5972698540",
+		"views": 1767
+	},
+	{
+		"id": "DcyGgp7G",
+		"created_at": "2023-12-12T20:14:36.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "[WALKIN' PRETTY | +8] 🕺 TTD 3",
+		"script": "game:GetService(\"ReplicatedStorage\").Shared.Packages.Knit.Services.MarketplaceService.RF.PromptPurchase:InvokeServer(15046131610) ",
+		"game_id": "5771467270",
+		"views": 2007
+	},
+	{
+		"id": "ZpRCvgrs",
+		"created_at": "2023-12-11T17:58:01.000Z",
+		"title": "[UGC LIMITED] Auto Farm Coins",
+		"game_name": "Elf on the Shelf Snowball Fight",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/ElfOnShelf.lua\"))()",
+		"game_id": "7581658375",
+		"views": 1013
+	},
+	{
+		"id": "k5z3QBqz",
+		"created_at": "2023-12-09T23:47:07.000Z",
+		"title": "[UGC LIMITED] Auto Quest",
+		"game_name": "🎄 [FREE UGC] Venti Cafe ☕",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/VentiCafe.lua\"))()",
+		"game_id": "1217895158",
+		"views": 1121
+	},
+	{
+		"id": "YWS7fsgw",
+		"created_at": "2023-12-09T22:41:58.000Z",
+		"title": "[UGC LIMITED] Inf. Points",
+		"game_name": "[🎉FREE UGC] the circle game 🔴",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/thecirclegame.lua\"))()",
+		"game_id": "15064983252",
+		"views": 7714
+	},
+	{
+		"id": "6wBOVJbT",
+		"created_at": "2023-12-09T10:48:59.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "Nicki Minaj’s Gag City",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/NickiMinaj.lua\"))()",
+		"game_id": "15566395852",
+		"views": 710
+	},
+	{
+		"id": "UnAv6340",
+		"created_at": "2023-12-09T09:49:16.000Z",
+		"title": "[UGC LIMITED] Auto Collect UGC Crates",
+		"game_name": "[FREE UGC] War Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/WarTycoon.lua\"))()",
+		"game_id": "4639625707",
+		"views": 1297
+	},
+	{
+		"id": "1GgOG3Ot",
+		"created_at": "2023-12-09T08:50:36.000Z",
+		"title": "[UGC LIMITED] Auto Fish",
+		"game_name": "[NEW!] UGC Limited Fishing Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/FishingSimulator.lua\"))()",
+		"game_id": "15318217922",
+		"views": 1231
+	},
+	{
+		"id": "UOvdPCpH",
+		"created_at": "2023-12-08T19:52:20.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "[Winter Wonderland] Man City Blue Moon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/ManCityBlueMoob.lua\"))()",
+		"game_id": "9616411936",
+		"views": 951
+	},
+	{
+		"id": "ASZ06MiM",
+		"created_at": "2023-12-08T17:12:00.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Pickup / Free Trident",
+		"game_name": "[Limited UGC]Aquaman Simulator - The Lost Kingdom",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/AquamanSimulator.lua\"))()",
+		"game_id": "15148887622",
+		"views": 1308
+	},
+	{
+		"id": "FiGblOaI",
+		"created_at": "2023-12-08T14:20:38.000Z",
+		"title": "[UGC LIMITED] Auto Farm Points / Obby",
+		"game_name": "Ultaverse  [🎄UGCs Update 🎄] ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Ultaverse.lua\"))()",
+		"game_id": "8980446061",
+		"views": 1963
+	},
+	{
+		"id": "U5NAdYy-",
+		"created_at": "2023-12-08T14:15:36.000Z",
+		"title": "[UGC LIMITED] Auto Buttons / Arest / ATMs",
+		"game_name": "[FREE LIMITEDS] Cops & Robbers Tycoon 👮",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/CopsRobbersTycoon.lua\"))()",
+		"game_id": "8872389702",
+		"views": 628
+	},
+	{
+		"id": "ZD28cTiW",
+		"created_at": "2023-12-06T19:59:32.000Z",
+		"title": "[UGC LIMITED] Fast Ball / Auto Win",
+		"game_name": "[🎉 6 ITEMS!] Limited Marble Race",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/MarbleRace.lua\"))()",
+		"game_id": "14872427897",
+		"views": 2667
+	},
+	{
+		"id": "ZTlYLae4",
+		"created_at": "2023-12-06T16:25:59.000Z",
+		"title": "[UGC LIMITED] Inf. Gems",
+		"game_name": "Mine Race Simulator 💎 [FREE UGC]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/MineRaceSim.lua\"))()",
+		"game_id": "11709029682",
+		"views": 1252
+	},
+	{
+		"id": "llnPWr23",
+		"created_at": "2023-12-05T18:56:32.000Z",
+		"title": "[UGC LIMITED] Auto Hearts / Farm",
+		"game_name": "[NEW! WONDERWRAPPED] Spotify Island",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/SpotifyIsland.lua\"))()",
+		"game_id": "8209480473",
+		"views": 1413
+	},
+	{
+		"id": "MfzKjBXe",
+		"created_at": "2023-12-05T14:50:16.000Z",
+		"title": "[UGC LIMITED] Auto Christmas Event",
+		"game_name": "☃️ [UGC] PunchMade Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/PunchMadeSim.lua\"))()",
+		"game_id": "12888158326",
+		"views": 756
+	},
+	{
+		"id": "U5aFHRwO",
+		"created_at": "2023-12-03T21:11:16.000Z",
+		"title": "[UGC LIMITED] Inf. Wins / Auto Train ",
+		"game_name": "Bomb Door Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/BombDoorSim.lua\"))()",
+		"game_id": "15054655015",
+		"views": 1207
+	},
+	{
+		"id": "-k-GIsv8",
+		"created_at": "2023-12-03T19:47:24.000Z",
+		"title": "[UGC LIMITED] Fast Auto Merge / Upgrade / Rebirth",
+		"game_name": "[FREE UGC!] Present Merge Simulator 🎁",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/PresentMergeSim.lua\"))()",
+		"game_id": "15213452325",
+		"views": 1122
+	},
+	{
+		"id": "yiz3Z8rl",
+		"created_at": "2023-12-03T16:20:10.000Z",
+		"title": "[UGC LIMITED] Inf. Spins / Gifts / Auto Rebirth",
+		"game_name": "[⭐️UGC] Samurai Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/SamuraiSimulator.lua\"))()",
+		"game_id": "14816008018",
+		"views": 1779
+	},
+	{
+		"id": "5nPgsIMs",
+		"created_at": "2023-12-03T15:05:02.000Z",
+		"title": "[FREE UGCs] Instant 7 UGCs",
+		"game_name": "[2x💸] Dunking Simulator",
+		"script": "local ReplicatedStorage = game:GetService(\"ReplicatedStorage\")\r\n\r\nfor _, v in ipairs({2127480712, 2127480708, 2129357358, 2127480711, 2129357352, 2129357355, 2129357362}) do\r\n    ReplicatedStorage.AwardBadge:FireServer(v); task.wait(.25)\r\nend",
+		"game_id": "7655745946",
+		"views": 1089
+	},
+	{
+		"id": "BRAt_4QZ",
+		"created_at": "2023-12-02T17:05:22.000Z",
+		"title": "[UGC LIMITED] Auto Collect",
+		"game_name": "[UGC] Shoot Players Off A Map Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/ShootPlayersOffMap.lua\"))()",
+		"game_id": "11124905486",
+		"views": 1065
+	},
+	{
+		"id": "99VFo5f4",
+		"created_at": "2023-12-02T16:03:32.000Z",
+		"title": "[UGC LIMITED] Instant Limited UGC",
+		"game_name": "[A for Adley RP] PiRATE iSLAND",
+		"script": "game[\"ReplicatedStorage\"].ServerEvent[\"Purchase/EquipEvents\"].PurchaseItem_Server:FireServer(15373574626)",
+		"game_id": "12708446360",
+		"views": 663
+	},
+	{
+		"id": "jRbBU4Vo",
+		"created_at": "2023-11-30T19:24:58.000Z",
+		"title": "[UGC LIMITED] Auto Fight / Free Exclusive Pets",
+		"game_name": "Flag Battles Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/FlagBattlesSim.lua\"))()",
+		"game_id": "14897426802",
+		"views": 2271
+	},
+	{
+		"id": "B31GMiwx",
+		"created_at": "2023-11-27T15:08:46.000Z",
+		"title": "[UGC LIMITED] Auto Tycoon / Rings / Gifts",
+		"game_name": "[UGC] Anime Fighters Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/AnimeFightersTycoon.lua\"))()",
+		"game_id": "14794156301",
+		"views": 804
+	},
+	{
+		"id": "ST1AGdI-",
+		"created_at": "2023-11-26T10:11:01.000Z",
+		"title": "[UGC LIMITED] Auto Farm Hash",
+		"game_name": "[FREE UGC] UGCEES World ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/UGCEESWorld.lua\"))()",
+		"game_id": "14906459671",
+		"views": 1125
+	},
+	{
+		"id": "9_LO1uRo",
+		"created_at": "2023-11-25T18:58:25.000Z",
+		"title": "[UGC LIMITED] Auto Collect / Buttons",
+		"game_name": "[FREE UGC] NetBlox Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/NetBloxTycoon.lua\"))()",
+		"game_id": "9846551290",
+		"views": 593
+	},
+	{
+		"id": "JcSQ5cIG",
+		"created_at": "2023-11-25T17:00:57.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Obby",
+		"game_name": "🐝 Bee Factory",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/BeeFactory.lua\"))()",
+		"game_id": "10924916839",
+		"views": 1019
+	},
+	{
+		"id": "XGkP0LX2",
+		"created_at": "2023-11-25T14:32:09.000Z",
+		"title": "[UGC LIMITED] Auto Farm",
+		"game_name": "[2 FREE UGC'S] The Most Difficult Obby",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/MostDifficultObby.lua\"))()",
+		"game_id": "14169088580",
+		"views": 1048
+	},
+	{
+		"id": "4-Gs8XeV",
+		"created_at": "2023-11-25T13:32:04.000Z",
+		"title": "[UGC LIMITED] Auto Dig / Inf. Tickets / Candy",
+		"game_name": "Blippi's Playground 🦖",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/BlippisPlayground.lua\"))()",
+		"game_id": "14834598561",
+		"views": 2341
+	},
+	{
+		"id": "OCgwAhWD",
+		"created_at": "2023-11-24T18:16:28.000Z",
+		"title": "[UGC LIMITED] Inf. Spins / Auto Obby",
+		"game_name": "[🦃UGC] Obby But You're a Ragdoll (Momoguro)",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/ObbyButRagdoll.lua\"))()",
+		"game_id": "12094311187",
+		"views": 476
+	},
+	{
+		"id": "Jf7NyzDD",
+		"created_at": "2023-11-23T21:56:09.000Z",
+		"title": "[UGC LIMITED] Instant Win / Auto Popcorn / Eggs",
+		"game_name": "Popcorn Simulator!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/PopcornSim.lua\"))()",
+		"game_id": "15181276977",
+		"views": 798
+	},
+	{
+		"id": "ltoQh3qb",
+		"created_at": "2023-11-11T18:36:04.000Z",
+		"title": "[UGCs LIMITED] Auto Buttons / Collect / Rebirth",
+		"game_name": "e.l.f. UP!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/elfUP.lua\"))()",
+		"game_id": "15218427871",
+		"views": 2296
+	},
+	{
+		"id": "t3H9NbBg",
+		"created_at": "2023-11-11T11:56:26.000Z",
+		"title": "[UGC LIMITED] Instant Win / Auto Eggs / Strength",
+		"game_name": "[FREE UGC] Fitness Simulator 2",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/FitnessSimulator2.lua\"))()",
+		"game_id": "14113419982",
+		"views": 3561
+	},
+	{
+		"id": "O6Qf_dlu",
+		"created_at": "2023-11-10T15:21:45.000Z",
+		"title": "[UGC LIMITED] Auto Math / Rebirth",
+		"game_name": "[FREE UGC] 📚PEMDAS!:Math Arcade",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/MathArcade.lua\"))()",
+		"game_id": "12473281288",
+		"views": 962
+	},
+	{
+		"id": "A3k7ORu9",
+		"created_at": "2023-11-09T16:03:21.000Z",
+		"title": "[UGC LIMITED] Instant UGCs",
+		"game_name": "[50TH Limted UGC]My Hello Kitty Cafe(Build)",
+		"script": "local ReplicatedStorage = game:GetService(\"ReplicatedStorage\")\r\nfor _, v in ipairs({14526608964, 15290834415, 15014829602}) do\r\n    ReplicatedStorage.GameCommon.Messages.BuyUGCItem:FireServer(v); task.wait(15);\r\nend\r\n",
+		"game_id": "9346039031",
+		"views": 2396
+	},
+	{
+		"id": "9D5XS5Hh",
+		"created_at": "2023-11-08T19:40:19.000Z",
+		"title": "[UGC LIMITED] Inf. Powers / Auto UGC Win",
+		"game_name": "[UGC] Power Slap Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/PowerSlap.lua\"))()",
+		"game_id": "14330243992",
+		"views": 2062
+	},
+	{
+		"id": "YaB3llVG",
+		"created_at": "2023-11-08T11:39:53.000Z",
+		"title": "[UGC LIMITED] Auto Event Card / Win",
+		"game_name": "Obby But You're on a Bike",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/ObbyOnBike.lua\"))()",
+		"game_id": "14184086618",
+		"views": 1758
+	},
+	{
+		"id": "hZS344Yc",
+		"created_at": "2023-11-07T16:55:57.000Z",
+		"title": "[UGC LIMITED] Auto Collect Pizza / Fast UGC",
+		"game_name": "🏘️ RoVille [TMNT EVENT]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/RoVille.lua\"))()",
+		"game_id": "2546155523",
+		"views": 736
+	},
+	{
+		"id": "cLQfVn0J",
+		"created_at": "2023-11-05T21:06:11.000Z",
+		"title": "[UGC LIMITED] Auto Kill / Grab Gun / ESP ",
+		"game_name": "[🎃UPDATE!] Victoria's MM2",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Victoria\"))()",
+		"game_id": "15165723182",
+		"views": 987
+	},
+	{
+		"id": "NynBB00y",
+		"created_at": "2023-11-05T17:41:14.000Z",
+		"title": "[UGC LIMITED] Inf. Power / Yen / Auto Rebirth",
+		"game_name": "(2 FREE LIMITEDS) Anime Punch Simulator 🔥",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/AnimePunchSimulator.lua\"))()",
+		"game_id": "15163154086",
+		"views": 650
+	},
+	{
+		"id": "HXBoDUIm",
+		"created_at": "2023-11-05T15:08:38.000Z",
+		"title": "[UGC LIMITED] Auto Win / Collect Orbs",
+		"game_name": "[UGC] Updraft Towers",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/UpdraftTowers.lua\"))()",
+		"game_id": "12936535270",
+		"views": 595
+	},
+	{
+		"id": "isYMw_TS",
+		"created_at": "2023-11-04T21:06:16.000Z",
+		"title": "[UGC LIMITED] Auto Points / Walk Speed",
+		"game_name": "FREE UGC AFK",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/FreeUGCAFK.lua\"))()",
+		"game_id": "15223116805",
+		"views": 1121
+	},
+	{
+		"id": "xuOZAXQb",
+		"created_at": "2023-11-04T15:03:22.000Z",
+		"title": "[UGC LIMITED] Fastest Auto Farm Cash",
+		"game_name": "[FIXED] Impossible Glass Bridge Obby",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/ImpossibleGlassBridgeObby.lua\"))()",
+		"game_id": "15097912888",
+		"views": 12042
+	},
+	{
+		"id": "MwvyQj1a",
+		"created_at": "2023-11-04T08:27:18.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "The Floor Is LAVA!🔥",
+		"script": "game['ReplicatedStorage'].Remotes.AwardEvent:FireServer()",
+		"game_id": "815405518",
+		"views": 415
+	},
+	{
+		"id": "Ic58IicQ",
+		"created_at": "2023-10-29T20:01:33.000Z",
+		"title": "[UGC LIMITED] Auto Knock / Candy",
+		"game_name": "🎃 HALLOWEEN! Car Dealership Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0CarDealershipH\"))()",
+		"game_id": "1554960397",
+		"views": 743
+	},
+	{
+		"id": "B_NUyy3x",
+		"created_at": "2023-10-28T17:42:47.000Z",
+		"title": "[UGC LIMITED] Auto Tokens / Click",
+		"game_name": "AFK For UGC",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Games/AFKForUGC.lua\"))()",
+		"game_id": "14776528572",
+		"views": 1905
+	},
+	{
+		"id": "GNWruCin",
+		"created_at": "2023-10-23T19:50:26.000Z",
+		"title": "[UGC LIMITED] Instant Win / Auto Rebirth",
+		"game_name": "Carry A Friend! (Teamwork Obby)",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Carry\"))()",
+		"game_id": "14448662003",
+		"views": 1145
+	},
+	{
+		"id": "pT60JSGz",
+		"created_at": "2023-10-21T09:20:13.000Z",
+		"title": "[UGC LIMITED] Inf. Candy",
+		"game_name": "[🎃UGC] Driving Empire",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/DrivingEmpire.lua\"))()\r\n\r\n-- Tora IsMe's\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0DrivingEmpire\"))()",
+		"game_id": "3351674303",
+		"views": 2043
+	},
+	{
+		"id": "vCdA5HLR",
+		"created_at": "2023-10-20T20:59:59.000Z",
+		"title": "[UGC LIMITED] Instant UGC / Auto Quest",
+		"game_name": "[🎃NEW] Rainbow Friends Morphs",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Rainbow\"))()",
+		"game_id": "10132505018",
+		"views": 732
+	},
+	{
+		"id": "cKhovo9z",
+		"created_at": "2023-10-20T18:33:36.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "[FREE LIMITED] iHeartLand: Temple of Sound",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0iHeartLand\"))()",
+		"game_id": "9524757503",
+		"views": 624
+	},
+	{
+		"id": "otsklruM",
+		"created_at": "2023-10-19T17:49:18.000Z",
+		"title": "[UGC LIMITED] Inf. Wins / Auto Power / Rebirth",
+		"game_name": "[🎃+Free UGC] Fart A Friend💨",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0FartAFriend\"))()",
+		"game_id": "14689517484",
+		"views": 927
+	},
+	{
+		"id": "tbgNM3CX",
+		"created_at": "2023-10-19T16:28:35.000Z",
+		"title": "[UGC LIMITED] Auto Farm Points",
+		"game_name": "UGC Don't Move! (AFK)",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mattdjjs/ToraIsMe/main/0DontMove\"))()",
+		"game_id": "14620329550",
+		"views": 3987
+	},
+	{
+		"id": "sSb8oiy5",
+		"created_at": "2023-10-18T19:55:58.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Drive / Build",
+		"game_name": "(FREE UGC + 🎃) Dealership Simulator 🚗",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Dealership\"))()",
+		"game_id": "4807086917",
+		"views": 237
+	},
+	{
+		"id": "78NKuxGN",
+		"created_at": "2023-10-18T18:13:05.000Z",
+		"title": "[🎃HALLOWEEN] Auto Farm Candy",
+		"game_name": "Murder Mystery 2",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Murder\"))()\r\n\r\n-- Eclipse Hub, more undetectable and faster, but requires good executor.\r\ngetgenv().mainKey = \"nil\";local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,\"https\\58//api.eclipsehub.xyz/auth\";c(a and b,\"Executor not Supported\")a(b({Url=e..\"\\?\\107e\\121\\61\"..d(mainKey),Headers={[\"User-Agent\"]=\"Eclipse\"}}).Body)()",
+		"game_id": "142823291",
+		"views": 7348
+	},
+	{
+		"id": "SMg7HGNz",
+		"created_at": "2023-10-12T15:54:56.000Z",
+		"title": "[UGC LIMITED] Instant UGC",
+		"game_name": "Walmart Discovered",
+		"script": "local Remotes = game:GetService(\"ReplicatedStorage\").Remotes\r\nlocal SumbitEvent = Remotes.GreenlightSubmitEvent\r\nRemotes.ClaimFreeUGCEvent:FireServer(\"Chest-Strapped Tech Bag\")\r\nSumbitEvent:FireServer(\"UGC\", \"Pets\", 14918510502)\r\nSumbitEvent:FireServer(\"UGC\", \"Sports\", 6839180558)\r\nSumbitEvent:FireServer(\"UGC\", \"CityAndTown\", 9857173477)\r\nSumbitEvent:FireServer(\"UGC\", \"Trending\", 12311307479)\r\nSumbitEvent:FireServer(\"UGC\", \"Entertainment\", 14240214218)\r\nSumbitEvent:FireServer(\"UGC\", \"Racing\", 13820482994)\r\nSumbitEvent:FireServer(\"UGC\", \"Beauty\", 14131560221)\r\nSumbitEvent:FireServer(\"UGC\", \"Beauty\", 14131560221)\r\nSumbitEvent:FireServer(\"UGC\", \"Dev\", 14172748486)",
+		"game_id": "13398230007",
+		"views": 761
+	},
+	{
+		"id": "jbrLfHUU",
+		"created_at": "2023-10-10T13:23:39.000Z",
+		"title": "[UGC LIMITED] Auto Farm Coins / Instant",
+		"game_name": "Walmart Discovered",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/WalmartDiscovered.lua\"))()",
+		"game_id": "13398230007",
+		"views": 802
+	},
+	{
+		"id": "kD5jD-Vl",
+		"created_at": "2023-10-09T13:16:12.000Z",
+		"title": "[UGC LIMITED] Infinite Wins / Auto Hatch",
+		"game_name": "CAPYBARA Race Simulator!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Cameraman\"))()",
+		"game_id": "13664710157",
+		"views": 835
+	},
+	{
+		"id": "vZtamuq-",
+		"created_at": "2023-10-08T10:00:59.000Z",
+		"title": "[UGC LIMITED] Infinite Wins / Auto Hatch",
+		"game_name": "[FREE LIMITEDS] Cameraman Race Simulator!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Cameraman\"))()",
+		"game_id": "13861308375",
+		"views": 2180
+	},
+	{
+		"id": "rBOiCcaL",
+		"created_at": "2023-10-07T18:17:29.000Z",
+		"title": "[🎃HALLOWEEN] Auto Candy Corns",
+		"game_name": "Slap Battles👏",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/SlapBattles.lua\"))()",
+		"game_id": "6403373529",
+		"views": 2495
+	},
+	{
+		"id": "SIBOkIwb",
+		"created_at": "2023-10-06T18:02:21.000Z",
+		"title": "[UGC LIMITED] Auto Farm Coins",
+		"game_name": "[LIMITED UGC] Blue Bird Valk",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Halloween%20Hammer.lua\"))()",
+		"game_id": "14346875187",
+		"views": 2224
+	},
+	{
+		"id": "6I506tAU",
+		"created_at": "2023-10-06T17:09:07.000Z",
+		"title": "[UGC LIMITED] Auto Win / Farm / Hatch",
+		"game_name": "[10x UGC 👑] Hack Simulator ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0HackSim\"))()",
+		"game_id": "14172792667",
+		"views": 2282
+	},
+	{
+		"id": "JzlBF69c",
+		"created_at": "2023-10-06T12:50:52.000Z",
+		"title": "[UGC LIMITED] Auto Win / Click / Rebirth",
+		"game_name": "💥 Sonic Race",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0SonicRace\"))()",
+		"game_id": "13467517494",
+		"views": 625
+	},
+	{
+		"id": "5se5eFuE",
+		"created_at": "2023-10-05T13:31:46.000Z",
+		"title": "[UGC LIMITED] Auto Farm Tokens",
+		"game_name": "SHEIN x Klarna Wonderland",
+		"script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Wonderland'))()",
+		"game_id": "10956766913",
+		"views": 472
+	},
+	{
+		"id": "CkQKzBtL",
+		"created_at": "2023-10-03T16:12:03.000Z",
+		"title": "Infinite Coins / Gems / Auto Farm",
+		"game_name": "🎃Weapon Forge Simulator🎃",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0WeaponForge\"))()",
+		"game_id": "14547497059",
+		"views": 1277
+	},
+	{
+		"id": "PJxWXV1g",
+		"created_at": "2023-10-03T15:39:01.000Z",
+		"title": "[UGC LIMITED] Instant Win / Find Guns",
+		"game_name": "Team Rob The Bank Escape! (TEAMWORK OBBY) ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/TeamRobTheBank.lua\"))()",
+		"game_id": "14793777270",
+		"views": 517
+	},
+	{
+		"id": "CHCWaKsT",
+		"created_at": "2023-10-02T19:04:24.000Z",
+		"title": "[UGC LIMITED] Auto Collect / Quest / Fast UGC",
+		"game_name": "[NEW] Academy Adventures | The Hunger Games",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Academy%20Adventures.lua\"))()",
+		"game_id": "14700018413",
+		"views": 2036
+	},
+	{
+		"id": "MlbYFH-e",
+		"created_at": "2023-09-30T20:34:35.000Z",
+		"title": "[UGC LIMITED] Auto Collect / Buttons / Obby",
+		"game_name": "[FREE LIMITEDS] 🐈Cat Feeding Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0CatFeeding\"))()",
+		"game_id": "14817965715",
+		"views": 738
+	},
+	{
+		"id": "8GNe82O3",
+		"created_at": "2023-09-30T19:49:04.000Z",
+		"title": "[UGC LIMITED] Inf. Coins / Gems / Auto Farm",
+		"game_name": "[🥮Event]Power Fighting Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0PowerFighting\"))()",
+		"game_id": "13656867543",
+		"views": 1203
+	},
+	{
+		"id": "I6hEum3G",
+		"created_at": "2023-09-28T20:14:08.000Z",
+		"title": "[UGC LIMITED] Instant Obby",
+		"game_name": "Haunted Halloween Obby",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Haunted\"))()",
+		"game_id": "14855671324",
+		"views": 2946
+	},
+	{
+		"id": "MbF3_4b9",
+		"created_at": "2023-09-27T19:42:26.000Z",
+		"title": "Infinite Coins / Power / Auto Rebirth",
+		"game_name": "[NEW WORLD] Pogo Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Pogo%20Simulator.lua\"))()",
+		"game_id": "14034883309",
+		"views": 740
+	},
+	{
+		"id": "AodTnT8-",
+		"created_at": "2023-09-24T19:34:29.000Z",
+		"title": "[UGC LIMITED] Auto Buttons / Collect",
+		"game_name": "[💰RELEASE💰] GEAR ROBOT TYCOON",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Gear%20Robot%20Tycoon.lua\"))()",
+		"game_id": "13849904639",
+		"views": 441
+	},
+	{
+		"id": "zXOVZhuV",
+		"created_at": "2023-09-24T18:15:04.000Z",
+		"title": "[UGC LIMITED] Auto Instant Win",
+		"game_name": "Skate Obby [FREE UGC]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Skate%20Obby.lua\"))()",
+		"game_id": "6817369816",
+		"views": 665
+	},
+	{
+		"id": "7ewXDqeV",
+		"created_at": "2023-09-24T16:01:49.000Z",
+		"title": "[UGC LIMITED] Instant Win / Auto Finish",
+		"game_name": "99% Win Obby",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/99%25%20Win%20Easy.lua\"))()",
+		"game_id": "14695059334",
+		"views": 1753
+	},
+	{
+		"id": "cnhcKkLJ",
+		"created_at": "2023-09-23T20:09:50.000Z",
+		"title": "[UGC LIMITED] Auto Farm",
+		"game_name": "🎃 Лифт Веселья Elevator of fun",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Elevator\"))()",
+		"game_id": "7697611744",
+		"views": 432
+	},
+	{
+		"id": "up8RcR3K",
+		"created_at": "2023-09-23T19:08:48.000Z",
+		"title": "[UGC LIMITED] Auto Buttons / Collect / Coins",
+		"game_name": "💰 Bank Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Bank%20Tycoon.lua\"))()",
+		"game_id": "7234652571",
+		"views": 991
+	},
+	{
+		"id": "ZGDRSZCF",
+		"created_at": "2023-09-22T19:26:18.000Z",
+		"title": "Item Giver / Max Train / Inf. Food / Free Gamepass",
+		"game_name": "Break In 2 (ORIGIN ENDING)",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/RScriptz/RobloxScripts/main/BreakIn2.lua\"))()\r\n\r\n-- Legend Handles | 9/22/2023: 8982BreakRobloxBest!!\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/Break/main/In\"))()",
+		"game_id": "13864661000",
+		"views": 529
+	},
+	{
+		"id": "XYLQUKt5",
+		"created_at": "2023-09-19T20:26:07.000Z",
+		"title": "[UGC LIMITED] Auto Farm Coins / Collect Coins",
+		"game_name": "🌈[FREE UGC] Lego Obby Fun Escape [50 STAGES]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Lego%20Obby.lua\"))()\r\n\r\n-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0LegoObby\"))()",
+		"game_id": "14099887645",
+		"views": 3126
+	},
+	{
+		"id": "qBYgJN3F",
+		"created_at": "2023-09-18T21:44:42.000Z",
+		"title": "[UGC LIMITED] Auto Complete Tycoon",
+		"game_name": "Crocs World Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Crocs\"))()",
+		"game_id": "10906235788",
+		"views": 1009
+	},
+	{
+		"id": "XJ-2dRgM",
+		"created_at": "2023-09-18T12:38:51.000Z",
+		"title": "[UGC LIMITED] Inf. Money / Auto Rebirth / Power",
+		"game_name": "Running Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Running\"))()",
+		"game_id": "14265515277",
+		"views": 1000
+	},
+	{
+		"id": "vzr8Iycz",
+		"created_at": "2023-09-17T19:01:10.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Kill / Anti Damage",
+		"game_name": "[FREE UGC] Don't Die!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Don'tDie\"))()",
+		"game_id": "14748549865",
+		"views": 2828
+	},
+	{
+		"id": "nBD0Qtw0",
+		"created_at": "2023-09-15T20:36:17.000Z",
+		"title": "Best Auto Block",
+		"game_name": "[⚡UPD] Blade Ball",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/1f0yt/community/main/Circle\"))()\r\n-- Click \"X\" To Spam (for close battles)",
+		"game_id": "13772394625",
+		"views": 1146
+	},
+	{
+		"id": "5Z0f6qT_",
+		"created_at": "2023-09-15T18:32:42.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Weight / Free Huge Pets",
+		"game_name": "💪 Strong Muscle Simulator",
+		"script": "-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0StrongMuscleX\"))()\r\n\r\n-- MamakSHub\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/MamakSHub/Mamakshub/main/S4rongMuscle\"))()",
+		"game_id": "10857813475",
+		"views": 1425
+	},
+	{
+		"id": "JOF9tQoS",
+		"created_at": "2023-09-15T16:41:48.000Z",
+		"title": "[UGC LIMITED] Auto Merge / Upgrade / Obby",
+		"game_name": "Merge Simulator",
+		"script": "-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Merge\"))()\r\n\r\n-- Inferno X\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/alyssagithub/Scripts/main/InfernoX/Hub.lua\"))()",
+		"game_id": "10925589760",
+		"views": 545
+	},
+	{
+		"id": "X48UhxE-",
+		"created_at": "2023-09-14T13:23:59.000Z",
+		"title": "[UGC LIMITED] Auto Win / Rebirth / Click",
+		"game_name": "Smurf Cat Race",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Smurf\"))()",
+		"game_id": "14386757453",
+		"views": 1005
+	},
+	{
+		"id": "wgEwLhO8",
+		"created_at": "2023-09-13T13:26:03.000Z",
+		"title": "Dodge Ball / Auto Parry / Win / ESP",
+		"game_name": "[⚡UPD] Blade Ball",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/LOLking123456/Blader/main/BallRoblox\"))()",
+		"game_id": "13772394625",
+		"views": 837
+	},
+	{
+		"id": "y90XPvWZ",
+		"created_at": "2023-09-13T13:18:30.000Z",
+		"title": "Bedol Hub | Auto Parry / Aimbot / ESP",
+		"game_name": "[⚡UPD] Blade Ball",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/3345-c-a-t-s-u-s/SourceLua/main/Blade_Ball.lua\"))()",
+		"game_id": "13772394625",
+		"views": 826
+	},
+	{
+		"id": "ch36mrui",
+		"created_at": "2023-09-12T19:19:50.000Z",
+		"title": "[UGCs LIMITED] Auto Farm Snow / Wins",
+		"game_name": "[X3🎃] Pull a Sword",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Pull%20a%20Sword.lua\"))()",
+		"game_id": "13827198708",
+		"views": 6395
+	},
+	{
+		"id": "tyRoY4st",
+		"created_at": "2023-09-12T13:28:09.000Z",
+		"title": "[UGC LIMITED] Inf. Wins / Auto Rebirth / Hatch",
+		"game_name": "[FREE UGC] YouTuber Battles Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0YouTuberBattles\"))()",
+		"game_id": "14372055772",
+		"views": 2173
+	},
+	{
+		"id": "uJeZ5NFt",
+		"created_at": "2023-09-12T13:03:09.000Z",
+		"title": "[UGC LIMITED] Inf. Cash / Auto Rebirth / Speed",
+		"game_name": "How Far Can You Slide?",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0YouSlide\"))()",
+		"game_id": "11571723381",
+		"views": 732
+	},
+	{
+		"id": "FHGopbA-",
+		"created_at": "2023-09-11T19:52:31.000Z",
+		"title": "[UGC LIMITED] Auto Shoot / Inf. Stamina",
+		"game_name": "Lucky Forces",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0LuckyForces\"))()",
+		"game_id": "13901067120",
+		"views": 371
+	},
+	{
+		"id": "ejwO8dd2",
+		"created_at": "2023-09-11T19:11:28.000Z",
+		"title": "[UGC LIMITED] Inf. Coins / Auto Rebirth / Spin",
+		"game_name": "[UPD] Hoverboard Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Hoverboard%20Simulator.lua\"))()",
+		"game_id": "9922736986",
+		"views": 1324
+	},
+	{
+		"id": "pIgZ1VF3",
+		"created_at": "2023-09-10T18:02:22.000Z",
+		"title": "[UGC LIMITED] Killaura Customizable",
+		"game_name": "Ragdoll Rumble (FREE VALKYRIE!)",
+		"script": "getgenv().maxRange = 30 -- change to any range, 30 - the most stable\r\nloadstring(game:HttpGet('https://raw.githubusercontent.com/bestadamdagoat/random-scripts/main/ragdoll-rumble/killaura.lua'))()",
+		"game_id": "5444977771",
+		"views": 8555
+	},
+	{
+		"id": "YvA0_vsP",
+		"created_at": "2023-09-10T16:42:19.000Z",
+		"title": "Instant Kill / Auto Weapon / Hatch",
+		"game_name": "BraveOrder Simulator ✨NEW WORLD✨Lucky+5O%🍀",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Odrexyo/Script/main/Loader.lua\"))()",
+		"game_id": "13623909113",
+		"views": 2942
+	},
+	{
+		"id": "trwZS-TF",
+		"created_at": "2023-09-10T11:24:43.000Z",
+		"title": "[UGC LIMITED] Auto Stage / Lucky Block",
+		"game_name": "Obby But You're on a Pogo Stick",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Obby%20On%20Pogo%20Stick.lua\"))()",
+		"game_id": "14518789199",
+		"views": 490
+	},
+	{
+		"id": "-XPW0zDR",
+		"created_at": "2023-09-10T08:28:20.000Z",
+		"title": "[UGC LIMITED] Inf. Wins / Auto Rebirth / Click",
+		"game_name": "Pet Race ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Motorcycle%20Race.lua\"))()",
+		"game_id": "14350188056",
+		"views": 875
+	},
+	{
+		"id": "q_i-JxJc",
+		"created_at": "2023-09-10T06:02:54.000Z",
+		"title": "[UGC LIMITED] Tickets Multiplier",
+		"game_name": "[🌟SUPERSTARS] Sonic Speed Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Sonic5\"))()",
+		"game_id": "9049840490",
+		"views": 4752
+	},
+	{
+		"id": "4PxxI9mM",
+		"created_at": "2023-09-09T18:28:20.000Z",
+		"title": "Most Accurate Auto Block / Inf. Abilities",
+		"game_name": "[⚡UPD] Blade Ball",
+		"script": "-- ⭕ Auto-Block With Red Circle:\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/1f0yt/community/main/Circle\"))()\r\n-- Click \"X\" To Spam (for close battles)\r\n\r\n-- Infinity Hub [ Auto Parry / Inf. Abilities]\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/InfinityMercury/Scripts/main/BladeBall/loader.lua\"))()",
+		"game_id": "13772394625",
+		"views": 2801
+	},
+	{
+		"id": "ezXMmgTe",
+		"created_at": "2023-09-06T20:43:48.000Z",
+		"title": "Inf. Power / Auto Slap / Rebirth",
+		"game_name": "[🎃UPD] Palm Slap Friends Simulator👋",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Palm%20Slap%20Friends.lua\"))()",
+		"game_id": "13896956178",
+		"views": 1430
+	},
+	{
+		"id": "lzDfjo9a",
+		"created_at": "2023-09-05T19:21:56.000Z",
+		"title": "[UGC LIMITED] Infinite Wins / Auto Rebirth",
+		"game_name": "[ Content Deleted ]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Grimace%20Race.lua\"))()",
+		"game_id": "13157300965",
+		"views": 1740
+	},
+	{
+		"id": "pI92sQfj",
+		"created_at": "2023-09-05T13:11:27.000Z",
+		"title": "[UGC] Inf. Wins / Auto Rebirth",
+		"game_name": "Butterfly Race",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Grimace%20Race.lua\"))()",
+		"game_id": "13973120326",
+		"views": 3461
+	},
+	{
+		"id": "lu8H743j",
+		"created_at": "2023-09-04T20:07:35.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Stats / Hatch",
+		"game_name": "Anime Battlegrounds Y",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0AnimeY\"))()",
+		"game_id": "12888650105",
+		"views": 1255
+	},
+	{
+		"id": "lqeD735A",
+		"created_at": "2023-09-04T17:00:23.000Z",
+		"title": "[UGC LIMITED] Auto Wins / Spins",
+		"game_name": "Every Second You Get +1 Jump Power",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/%2B1%20Jump%20Power.lua\"))()",
+		"game_id": "11063612131",
+		"views": 720
+	},
+	{
+		"id": "QmCtw8S6",
+		"created_at": "2023-09-01T19:33:36.000Z",
+		"title": "[LIMITED UGC] Auto Obby / Farm Fuel",
+		"game_name": "Obby But You're on a Jetpack",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Obby%20But%20on%20Jetpack.lua\"))()\r\n\r\n-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0ObbyJetpack\"))()",
+		"game_id": "14034480512",
+		"views": 2093
+	},
+	{
+		"id": "CcjSOKeU",
+		"created_at": "2023-08-31T19:51:03.000Z",
+		"title": "[UGC LIMITED] Auto Farm / Hatch / Rebirth",
+		"game_name": "[FREE UGC] Shoot a Friend Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0ShootFriend\"))()",
+		"game_id": "13748085494",
+		"views": 1427
+	},
+	{
+		"id": "Me2f9DON",
+		"created_at": "2023-08-31T19:35:32.000Z",
+		"title": "[UGC LIMITED] Auto Farm Chest / Dungeon",
+		"game_name": "[🎃HALLOWEEN] Chest Hero Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Chest\"))()",
+		"game_id": "14047294951",
+		"views": 791
+	},
+	{
+		"id": "9u8wT0GV",
+		"created_at": "2023-08-31T05:10:02.000Z",
+		"title": "[UGC LIMITED] Auto Fight / Power / Hatch / Rebirth",
+		"game_name": "Save A Friend!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0SaveFriend\"))()",
+		"game_id": "13683398813",
+		"views": 532
+	},
+	{
+		"id": "OdxGANHT",
+		"created_at": "2023-08-30T08:31:58.000Z",
+		"title": "[LIMITED UGC] Instant Finish",
+		"game_name": "[FREE UGC] Free UGC Cart Ride!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Cart%20Ride.lua\"))()",
+		"game_id": "14508327597",
+		"views": 1293
+	},
+	{
+		"id": "HZp3aAju",
+		"created_at": "2023-08-29T13:41:16.000Z",
+		"title": "[UGC LIMITED] Auto Wins / Collect Coins",
+		"game_name": "😤Don't Make The Rock Angry",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0TheRock\"))()",
+		"game_id": "12979480582",
+		"views": 629
+	},
+	{
+		"id": "04nnMCcH",
+		"created_at": "2023-08-29T11:48:06.000Z",
+		"title": "[UGC LIMITED] Inf. Race / Auto Hatch",
+		"game_name": "[🎃PART 2] Pet Racer Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0PetRacer\"))()",
+		"game_id": "14041207387",
+		"views": 582
+	},
+	{
+		"id": "v7abaNI0",
+		"created_at": "2023-08-27T22:15:17.000Z",
+		"title": "[UGC LIMITED] Instant UGC / Win",
+		"game_name": "[UGC] 99% Lose Obby",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/99%25%20Lose%20Obby.lua\"))()",
+		"game_id": "13569014409",
+		"views": 13323
+	},
+	{
+		"id": "ydA6iNX6",
+		"created_at": "2023-08-27T21:10:08.000Z",
+		"title": "[UGC LIMITED] Auto Click / Sell / Buy",
+		"game_name": "[FREE UGC] BOXING SIMULATOR! 🥊 ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ExtremeAntonis/loader/main/loader.lua\"))()",
+		"game_id": "4058282580",
+		"views": 707
+	},
+	{
+		"id": "SKxdD9y5",
+		"created_at": "2023-08-27T20:05:42.000Z",
+		"title": "[UGC LIMITED] Auto Throw / Upgrade / Hatch",
+		"game_name": "Yeet a Plane Simulator!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0YeetaPlane\"))()",
+		"game_id": "13780662126",
+		"views": 713
+	},
+	{
+		"id": "rTG4AfoE",
+		"created_at": "2023-08-27T17:22:58.000Z",
+		"title": "[LIMITED UGC] Inf. Wins / Auto Rebirth / Hatch",
+		"game_name": "🎃[FREE LIMITED] Anime Energy Clash Simulator🔥",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0AnimeEnergy\"))()",
+		"game_id": "13370783664",
+		"views": 5480
+	},
+	{
+		"id": "bauhDOEt",
+		"created_at": "2023-08-27T16:31:01.000Z",
+		"title": "[LIMITED UGC] Auto Obby / Highlight Glasses",
+		"game_name": "Impossible Squid Game! (Glass Bridge)",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Impossible%20Glass%20Bridge%20Obby.lua\"))()",
+		"game_id": "7080389084",
+		"views": 2296
+	},
+	{
+		"id": "OQ0Dg3aT",
+		"created_at": "2023-08-26T20:08:36.000Z",
+		"title": "[LIMITED UGC] Auto Build / Cash / Golden",
+		"game_name": "🏉 Super NFL Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0SuperNFL\"))()",
+		"game_id": "12282826305",
+		"views": 673
+	},
+	{
+		"id": "UotRLbRG",
+		"created_at": "2023-08-26T19:54:08.000Z",
+		"title": "[LIMITED UGC] Instant Win",
+		"game_name": "Teamwork Puzzles 2 (Obby)",
+		"script": "loadstring(game:HttpGet('https://pastebin.com/raw/kwUnPzZa'))()\r\n\r\n-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Teamwork\"))()",
+		"game_id": "12641272458",
+		"views": 1214
+	},
+	{
+		"id": "KiRnvDb0",
+		"created_at": "2023-08-24T19:43:11.000Z",
+		"title": "[LIMITED UGC] Auto Win / Rebirth / Click",
+		"game_name": "[ Content Deleted ]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0BillyRace\"))()",
+		"game_id": "13157300965",
+		"views": 3138
+	},
+	{
+		"id": "XPEnO23p",
+		"created_at": "2023-08-24T19:00:44.000Z",
+		"title": "[LIMITED UGC] Auto Wins / Rebirth / Spin",
+		"game_name": "Every Second You Get +1 WalkSpeed",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/%2B1%20WalkSpeed\"))()",
+		"game_id": "12742233841",
+		"views": 1922
+	},
+	{
+		"id": "jkjjebQn",
+		"created_at": "2023-08-24T06:47:15.000Z",
+		"title": "[LIMITED UGC] Auto Obby / Lucky Blocks",
+		"game_name": "[FREE LIMITED] Super Easy Obby 🌟",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Super%20Easy%20Obby.lua\"))()",
+		"game_id": "14427503136",
+		"views": 1363
+	},
+	{
+		"id": "TuhBlrmm",
+		"created_at": "2023-08-22T17:47:41.000Z",
+		"title": "[UGC Crown] Auto Fight / Hatch / Click",
+		"game_name": "[FREE LIMITED] Punch Simulator 👊",
+		"script": "-- Perfectus\r\nloadstring(game:HttpGet('https://raw.githubusercontent.com/PerfectusMim/dbevo/main/asfasfasfasf'))()\r\n\r\n-- EsohaSL\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Punch%20Simulator.lua\"))()\r\n\r\n-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0PUNCH\"))()",
+		"game_id": "14236123211",
+		"views": 5026
+	},
+	{
+		"id": "Go_uDxjO",
+		"created_at": "2023-08-22T16:53:50.000Z",
+		"title": "Auto Farm / Aim / Car Mods",
+		"game_name": "Jailbreak",
+		"script": "-- icetray v3\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/piglex9/icetray3/main/latest.lua\"))()\r\n \r\n-- ProjectAuto | ATTENTION! SENDING MESSAGES IN CHAT, USE ON ALT\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/Pxsta72/ProjectAuto/main/free\"))()",
+		"game_id": "606849621",
+		"views": 3066
+	},
+	{
+		"id": "1bM7Ynn7",
+		"created_at": "2023-08-22T09:32:05.000Z",
+		"title": "[LIMITED UGCs] Auto Farm Zombies",
+		"game_name": "Zombie Business Tycoon [Aliens!]",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Zombie%20Business%20Tycoon.lua\"))()",
+		"game_id": "12998005024",
+		"views": 1663
+	},
+	{
+		"id": "47lRzEOd",
+		"created_at": "2023-08-21T06:48:14.000Z",
+		"title": "[UGC LIMITED] Inf. Studs / Auto Rebirth / Hatch",
+		"game_name": "🤑 Money Race ",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Money%20Race.lua\"))()",
+		"game_id": "13529953420",
+		"views": 4014
+	},
+	{
+		"id": "cvc33oEV",
+		"created_at": "2023-08-20T17:11:49.000Z",
+		"title": "[UGC LIMITED] Inf. Wins / Auto Rebirth",
+		"game_name": "Motorcycle Race",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Motorcycle%20Race.lua\"))()",
+		"game_id": "13778544303",
+		"views": 2397
+	},
+	{
+		"id": "ia9rS783",
+		"created_at": "2023-08-19T19:18:44.000Z",
+		"title": "[UGC LIMITED] Auto Complete Tycoon",
+		"game_name": "[UGC III] Demon Slayer War Tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0SlayerWar\"))()",
+		"game_id": "13449032278",
+		"views": 820
+	},
+	{
+		"id": "-FPpNac3",
+		"created_at": "2023-08-19T18:31:40.000Z",
+		"title": "[UGC LIMITED] Auto Win / Rebirth",
+		"game_name": "Race Clicker",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Games/Race%20Clicker/source.lua\"))()",
+		"game_id": "9285238704",
+		"views": 8664
+	},
+	{
+		"id": "SffxqZJo",
+		"created_at": "2023-08-19T15:41:33.000Z",
+		"title": "[LIMITED UGC] Auto Quests / Collect Fries",
+		"game_name": "🎃 Work at a Restaurant 🍟",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Work%20at%20a%20Restaurant.lua\"))()",
+		"game_id": "6321891709",
+		"views": 244
+	},
+	{
+		"id": "o7z63VaP",
+		"created_at": "2023-08-19T12:38:17.000Z",
+		"title": "Inf. Power / Wins / Auto Rebirth",
+		"game_name": "Power Slap Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0PowerSlap\"))()",
+		"game_id": "14330243992",
+		"views": 791
+	},
+	{
+		"id": "OfH8kOL_",
+		"created_at": "2023-08-18T13:16:28.000Z",
+		"title": "[LIMITED UGC] Inf. Coins / Auto Obby",
+		"game_name": "[FREE UGC!] Puppy Tycoon 🐶🦴",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Puppy%20Tycoon.lua\"))()\r\n\r\n-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Puppy\"))()",
+		"game_id": "13959733470",
+		"views": 650
+	},
+	{
+		"id": "zByIhSzG",
+		"created_at": "2023-08-17T19:32:55.000Z",
+		"title": "[LIMITED UGC] Auto Wins / Rebirth / Clicks",
+		"game_name": "Dragon Race",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Dragon\"))()",
+		"game_id": "13234744520",
+		"views": 1887
+	},
+	{
+		"id": "AgvpO3ZQ",
+		"created_at": "2023-08-17T12:57:46.000Z",
+		"title": "[LIMITED UGC] Auto Blue Beetle",
+		"game_name": "Man City Blue Moon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Games/Man%20City%20Blue%20Moon/source.lua\"))()",
+		"game_id": "9616411936",
+		"views": 300
+	},
+	{
+		"id": "XII8TfcS",
+		"created_at": "2023-08-16T21:20:52.000Z",
+		"title": "[LIMITED UGC] Auto Stars / Server Hop",
+		"game_name": "[V2.3]Racing Rocket🚀",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Games/Racing%20Rocket/source.lua\"))()",
+		"game_id": "10676523834",
+		"views": 344
+	},
+	{
+		"id": "xYU0Nnp3",
+		"created_at": "2023-08-16T14:45:04.000Z",
+		"title": "Auto Farm Mobs",
+		"game_name": "[🎃Halloween]Bathroom Attack",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Skibid%20Toilet%20Attack.lua\"))()",
+		"game_id": "13698105873",
+		"views": 2322
+	},
+	{
+		"id": "VY8vUhkF",
+		"created_at": "2023-08-16T08:59:55.000Z",
+		"title": "[LIMITED UGC] Auto Wins / Server Hop",
+		"game_name": "[FREE LIMITED] 1% FINISH",
+		"script": "getgenv().WinsFarm = false -- set true for autoexec\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Games/1%20Finish/source.lua\"))()",
+		"game_id": "14346127816",
+		"views": 4133
+	},
+	{
+		"id": "mPNcQlMd",
+		"created_at": "2023-08-15T13:17:03.000Z",
+		"title": "[LIMITED UGC] Auto Finish / Anti Boss Damage",
+		"game_name": "ESCAPE PRISON OBBY",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0ESCAPE\"))()",
+		"game_id": "14318670487",
+		"views": 517
+	},
+	{
+		"id": "lfvZmZIu",
+		"created_at": "2023-08-15T09:33:41.000Z",
+		"title": "[LIMITED UGC] Auto Wins / Train / Rebirth",
+		"game_name": "Punch a Anime",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0PunchAnime\"))()",
+		"game_id": "14034477945",
+		"views": 1130
+	},
+	{
+		"id": "B5g0IPAo",
+		"created_at": "2023-08-13T20:16:55.000Z",
+		"title": "[LIMITED UGC] Inf. Wins / Auto Eggs / Rebirth",
+		"game_name": "Race A Friend!",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Race%20A%20Friend.lua\"))()",
+		"game_id": "14018688391",
+		"views": 833
+	},
+	{
+		"id": "0mgBHNZA",
+		"created_at": "2023-08-13T18:00:31.000Z",
+		"title": "[LIMITED UGC] Fast Attack / Collect Drops",
+		"game_name": "Tank Simulator X (Clicker)",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Tank%20Simulator%20X.lua\"))()",
+		"game_id": "12945295490",
+		"views": 1905
+	},
+	{
+		"id": "L6p4YcIW",
+		"created_at": "2023-08-13T14:19:53.000Z",
+		"title": "[LIMITED UGC] Auto Wins / Rebirth",
+		"game_name": "Butterfly Race",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0GrimaceRace\"))()",
+		"game_id": "13973120326",
+		"views": 3243
+	},
+	{
+		"id": "TUNIOXz-",
+		"created_at": "2023-08-13T11:30:32.000Z",
+		"title": "[LIMITED UGC] Auto Wins / Click / Rebirth",
+		"game_name": "Mushroom Race",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Mushroom\"))()",
+		"game_id": "13910699018",
+		"views": 1844
+	},
+	{
+		"id": "lVx47-1y",
+		"created_at": "2023-08-12T15:30:01.000Z",
+		"title": "[LIMITED UGC] Auto Wins / Rebirth",
+		"game_name": "Toilet Battle Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0SkibiBattle\"))()",
+		"game_id": "13910706751",
+		"views": 1020
+	},
+	{
+		"id": "_8EYKfBP",
+		"created_at": "2023-08-11T19:10:14.000Z",
+		"title": "[UGC LIMITED] KillAura / Auto Collect",
+		"game_name": "Power Hero Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0PowerHero\"))()",
+		"game_id": "13094763768",
+		"views": 998
+	},
+	{
+		"id": "8bxKs5Et",
+		"created_at": "2023-08-10T15:31:18.000Z",
+		"title": "[UGC] Auto Farm / KillAura",
+		"game_name": "💪Mega Noob Simulator💪",
+		"script": "loadstring(game:HttpGet\"https://thedragonslayer2.github.io\")()\r\n\r\n-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0MegaNoob\"))()",
+		"game_id": "4543144283",
+		"views": 8568
+	},
+	{
+		"id": "yqHErS00",
+		"created_at": "2023-08-10T13:26:51.000Z",
+		"title": "[UGC] Auto Wins / Max Katana",
+		"game_name": "[👑4 UGC] Ninja Fighting Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Ninja\"))()",
+		"game_id": "13999740606",
+		"views": 1867
+	},
+	{
+		"id": "XdQrhcka",
+		"created_at": "2023-08-09T13:19:35.000Z",
+		"title": "[UGC] Auto Damage / Hatch / Fast Fight",
+		"game_name": "[FREE LIMITED] Punch Simulator 👊",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Punch%20Simulator.lua\"))()",
+		"game_id": "14236123211",
+		"views": 20049
+	},
+	{
+		"id": "Ntk3AxKT",
+		"created_at": "2023-08-09T11:51:36.000Z",
+		"title": "Inf. Wins / Strength / Powers",
+		"game_name": "Knockout Simulator",
+		"script": "local HowMany = 9e99\r\nlocal ReplicatedStorage=game:GetService(\"ReplicatedStorage\");ReplicatedStorage.Event.Train:FireServer(HowMany);ReplicatedStorage.Event.WinGain:FireServer(HowMany);ReplicatedStorage.Event.Enchanted:FireServer(1,HowMany)  ",
+		"game_id": "13667319624",
+		"views": 473
+	},
+	{
+		"id": "S5vElFEY",
+		"created_at": "2023-07-20T16:28:58.000Z",
+		"title": "Inf. Stars / Coins / Auto Farm",
+		"game_name": "🤓Math Wall Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/WinterDinder/Math-Wall-Simulator/main/Main\"))()",
+		"game_id": "13958693327",
+		"views": 1216
+	},
+	{
+		"id": "SktGpAXY",
+		"created_at": "2023-07-19T20:32:35.000Z",
+		"title": "Auto Farm / Boss / Rankup / Prestige",
+		"game_name": "[👻GHOSTY👻] 🔨 Banning Simulator X",
+		"script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/InsurgenceHub/IncurgenceHub.github.io/main/ReleasedScript.lua'))()",
+		"game_id": "8617208257",
+		"views": 279
+	},
+	{
+		"id": "FAVuf2OW",
+		"created_at": "2023-07-19T13:58:59.000Z",
+		"title": "Inf. Money",
+		"game_name": "Ultimate Factory Tycoon 🏭",
+		"script": "local ReplicatedStorage = game:GetService(\"ReplicatedStorage\")\r\n\r\nwhile task.wait() do\r\n\tReplicatedStorage.DropEvent:FireServer({[\"Value\"] = 999,[\"Type\"] = \"Collect\"})\r\nend\t",
+		"game_id": "13541967921",
+		"views": 2067
+	},
+	{
+		"id": "u6qQhaQM",
+		"created_at": "2023-07-17T13:36:45.000Z",
+		"title": "Auto Farm Money / Wins",
+		"game_name": "💸X2 - Balloon Simulator 🎈",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Balloon%20Simulator.lua\"))()\r\n\r\n-- Planet Hub | 7/17/2023 Key: 9Fb2Qo4YcZ67vNzX8s3jDpKwEuT1Ly0a\r\nloadstring(game:HttpGet('https://raw.githubusercontent.com/PlanetHubX/BalloonSimulator/main/source'))()",
+		"game_id": "13814171092",
+		"views": 1479
+	},
+	{
+		"id": "2sbvkeoQ",
+		"created_at": "2023-07-17T08:30:17.000Z",
+		"title": "Auto Cash / Build / Oil Extractor / Inf. Ammo",
+		"game_name": "[AA Tank] War Tycoon",
+		"script": "-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0wartycoon\"))()\r\n\r\n-- MLoader\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/Nivex123456/War-Tycoon/main/Script\"))()",
+		"game_id": "4639625707",
+		"views": 8545,
+		"description": "- Auto Cash\r\n- Auto Build\r\n- Oil Extractor\r\n- Hitbox\r\n- Inf. Ammo\r\n- ESP"
+	},
+	{
+		"id": "8CgwAzEK",
+		"created_at": "2023-07-16T20:17:55.000Z",
+		"title": "Auto Farm / Collect / Rank Up",
+		"game_name": "[KUNG FU]Anime Punch-out",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0AnimePunch\"))()",
+		"game_id": "12996514588",
+		"views": 565
+	},
+	{
+		"id": "mX2WRfba",
+		"created_at": "2023-07-16T08:31:31.000Z",
+		"title": "Vector`s Quest",
+		"game_name": "[🌟SUPERSTARS] Sonic Speed Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Sonic\"))()",
+		"game_id": "9049840490",
+		"views": 710
+	},
+	{
+		"id": "l-H0m-XN",
+		"created_at": "2023-07-14T09:15:28.000Z",
+		"title": "Auto Farm Beach Balls",
+		"game_name": "Murder Mystery 2",
+		"script": "-- by Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0mm\"))()\r\n\r\n-- Eclipse Hub (need fluxus to work)\r\ngetgenv().mainKey = \"nil\";\r\nlocal a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,\"https\\58//api.eclipsehub.xyz/auth\";c(a and b,\"Executor not Supported\")a(b({Url=e..\"\\?\\107e\\121\\61\"..d(mainKey),Headers={[\"User-Agent\"]=\"Eclipse\"}}).Body)()",
+		"game_id": "142823291",
+		"views": 874
+	},
+	{
+		"id": "a2xFDebg",
+		"created_at": "2023-07-13T20:15:59.000Z",
+		"title": "Fast KillAura / Auto Skills / Rebirth / Quest",
+		"game_name": "[🎃Halloween][Event!]⚔️Sword Warriors!",
+		"script": "-- Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0SwordWarriors\"))()\r\n\r\n-- Kidichi\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/KidichiHB/Kidachi/main/Scripts/SwordWarrior\", true))()",
+		"game_id": "12986400307",
+		"views": 1654
+	},
+	{
+		"id": "SnvW9Yqa",
+		"created_at": "2023-07-13T12:31:45.000Z",
+		"title": "Auto Farm Doors",
+		"game_name": "🎃Keys 🗝️ Season 7",
+		"script": "-- by EsohaSL\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/Keys.lua\"))()\r\n\r\n-- by Tora IsMe\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0keys\"))()",
+		"game_id": "12407250267",
+		"views": 196
+	},
+	{
+		"id": "483a6md8",
+		"created_at": "2023-07-13T12:12:40.000Z",
+		"title": "Destiny Project",
+		"game_name": "Universal",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Destiny/main/loader.lua\"))()",
+		"game_id": "0",
+		"views": 14497,
+		"description": "List of supported games: https://github.com/itsnoctural/Destiny"
+	},
+	{
+		"id": "aUK7GEbV",
+		"created_at": "2023-07-13T07:08:54.000Z",
+		"title": "Auto Draw / Copy Any Image",
+		"game_name": "starving artists (DONATION GAME)",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/StarvingArtist.lua\"))()",
+		"game_id": "8916037983",
+		"views": 91776
+	},
+	{
+		"id": "96ijXvFN",
+		"created_at": "2023-07-05T22:44:32.000Z",
+		"title": "Auto Farm Level / Sea Monster",
+		"game_name": "[UPDATE 4.66] King Legacy",
+		"script": "-- 7/6/2023 Key: azSN0Az3s1\r\nrepeat wait() until game:IsLoaded()\r\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/DookDekDEE/Hyper/main/script.lua\"))()",
+		"game_id": "4520749081",
+		"views": 134
+	},
+	{
+		"id": "uEFUxxi4",
+		"created_at": "2023-07-05T22:32:48.000Z",
+		"title": "Auto Farm / Boss / Stats",
+		"game_name": "Blox Fruits",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CFrame3310/CFrameHub/main/BloxFruit.lua\"))()",
+		"game_id": "2753915549",
+		"views": 384
+	},
+	{
+		"id": "-juaLWb5",
+		"created_at": "2023-07-02T22:15:55.000Z",
+		"title": "Auto Collect / Restock / Buttons / Fast Staff",
+		"game_name": "FEEDING TRASH TO RICH PEOPLE TYCOON",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/itsnoctural/Utilities/main/Closed/FEEDING%20TRASH%20TO%20RICH%20PEOPLE%20TYCOON.lua\"))()",
+		"game_id": "13171071365",
+		"views": 92
+	},
+	{
+		"id": "eG05zU58",
+		"created_at": "2023-07-02T22:06:18.000Z",
+		"title": "Farm Island / Auto Eggs / Hoverboard",
+		"game_name": "🌸 Pet Simulator X! 🐾",
+		"script": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/fc715fb43902af268c335a5c7269be5e.lua\"))()",
+		"game_id": "6284583030",
+		"views": 258
+	},
+	{
+		"id": "dy3tDPIw",
+		"created_at": "2023-06-27T20:41:39.000Z",
+		"title": "Inf. Money / Auto Upgrade / Edit",
+		"game_name": "make tixtoks to escape school tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0tixtoks\"))()",
+		"game_id": "12273954226",
+		"views": 165
+	},
+	{
+		"id": "o0n-KRqn",
+		"created_at": "2023-06-27T18:16:08.000Z",
+		"title": "Auto Bag / Boss / Biceps",
+		"game_name": "Arm Wrestle Simulator",
+		"script": "-- 6/27/2023 Key: LetsGOOOO\r\nloadstring(game:HttpGet('https://raw.githubusercontent.com/RaCc0oN1/RobloxObf/main/MainHub'))()",
+		"game_id": "13127800756",
+		"views": 259
+	},
+	{
+		"id": "b-fo7ODh",
+		"created_at": "2023-06-27T18:01:34.000Z",
+		"title": "Inf. Cash / Auto Members / Build",
+		"game_name": "become a server owner to get revenge tycoon",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0serverowner\"))()",
+		"game_id": "12622335423",
+		"views": 187
+	},
+	{
+		"id": "N4wj08Iq",
+		"created_at": "2023-06-27T17:00:31.000Z",
+		"title": "Auto Biceps / Hands / NPC",
+		"game_name": "Arm Wrestle Simulator",
+		"script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/yoolovr/Linear-Hub/main/loader.lua\"))()",
+		"game_id": "13127800756",
+		"views": 396
+	}
+]
