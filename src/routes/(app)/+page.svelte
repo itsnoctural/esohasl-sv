@@ -9,10 +9,6 @@
 <svelte:head>
 	<title>EsohaSL - Free Roblox Scripts</title>
 	<meta property="og:title" content="EsohaSL - Free Roblox Scripts" />
-	<meta
-		property="og:description"
-		content="Say goodbye to sketchy websites and unreliable scripts. EsohaSL is the trusted source for free, high-quality Roblox scripts that have been tested and approved."
-	/>
 </svelte:head>
 
 <main class="mx-auto mt-3 flex w-full max-w-screen-xl flex-col">

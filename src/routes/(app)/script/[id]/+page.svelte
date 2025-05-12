@@ -26,8 +26,6 @@
 <svelte:head>
 	<title>{data.title}</title>
 	<meta property="og:title" content={data.title} />
-	<meta property="description" content={data.description} />
-	<meta property="og:description" content={data.description} />
 	<meta property="og:image" content="https://esohasl.net/thumbnails/{data.id}.avif" />
 </svelte:head>
 

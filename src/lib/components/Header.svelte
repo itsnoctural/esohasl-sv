@@ -5,9 +5,7 @@
 
 <header class="z-50 w-full">
 	<div class="mx-auto mb-2 max-w-screen-xl rounded-lg bg-red-700 px-2 py-1 text-center text-white">
-		<span>esohasl's sunset has come. Click</span>
-		<a class="text- underline underline-offset-2" href="/sunset">here</a>
-		<span>to read</span>
+		<a href="/sunset">esohasl's sunset has come. Click here to read</a>
 	</div>
 	<div
 		class="border-border bg-background/75 mx-auto flex h-14 w-full max-w-screen-xl items-center justify-between gap-x-1.5 rounded-xl border px-4"
