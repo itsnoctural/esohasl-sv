@@ -5,13 +5,6 @@
 </script>
 
 <svelte:head>
-	<link
-		rel="preload"
-		as="font"
-		href="/fonts/geist.woff2"
-		type="font/woff2"
-		crossorigin="anonymous"
-	/>
 	<script>
 		{
 			const theme = localStorage.getItem('sv:theme');

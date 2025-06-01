@@ -1,17 +1,17 @@
 @font-face {
-	font-family: GeistSans;
-	src: url('/fonts/geist.woff2') format('woff2');
+	font-family: Geist;
+	src: url('./geist.woff2') format('woff2');
 	font-display: swap;
 	font-weight: 100 900;
 }
 
 @font-face {
-	font-family: GeistSans Fallback;
+	font-family: Geist Fallback;
 	src: local('Arial');
-	ascent-override: 85.83%;
-	descent-override: 20.52%;
-	line-gap-override: 9.33%;
-	size-adjust: 107.19%;
+	ascent-override: 95.94%;
+	descent-override: 28.16%;
+	line-gap-override: 0%;
+	size-adjust: 104.76%;
 }
 
 @import 'tailwindcss';
@@ -78,9 +78,7 @@
 }
 
 body {
-	font-family:
-		GeistSans,
-		GeistSans Fallback;
+	font-family: 'Geist', 'Geist Fallback';
 }
 
 .shiki {
