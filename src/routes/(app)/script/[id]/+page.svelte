@@ -24,6 +24,7 @@
 </script>
 
 <svelte:head>
+	<link rel="canonical" href="https://www.esohasl.net/script/{data.id}" />
 	<title>{data.title}</title>
 	<meta property="og:title" content={data.title} />
 	<meta property="og:image" content="https://esohasl.net/thumbnails/{data.id}.avif" />
