@@ -5,6 +5,9 @@
 </script>
 
 <svelte:head>
+	<meta property="og:site_name" content="esohasl.net" />
+	<meta name="google-site-verification" content="Xh2vRqKR8DetRtFsUc5FpefruEImhzyJxqM1C1Dc3c4" />
+
 	<script>
 		{
 			const theme = localStorage.getItem('sv:theme');
