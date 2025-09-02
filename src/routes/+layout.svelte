@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<meta property="og:site_name" content="esohasl.net" />
+	<meta property="og:site_name" content="esohasl.vercel.app" />
 	<meta name="google-site-verification" content="Xh2vRqKR8DetRtFsUc5FpefruEImhzyJxqM1C1Dc3c4" />
 
 	<script>

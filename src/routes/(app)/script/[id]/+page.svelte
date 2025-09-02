@@ -24,10 +24,10 @@
 </script>
 
 <svelte:head>
-	<link rel="canonical" href="https://www.esohasl.net/script/{data.id}" />
+	<link rel="canonical" href="https://esohasl.vercel.app/script/{data.id}" />
 	<title>{data.title}</title>
 	<meta property="og:title" content={data.title} />
-	<meta property="og:image" content="https://esohasl.net/thumbnails/{data.id}.avif" />
+	<meta property="og:image" content="https://esohasl.vercel.app/thumbnails/{data.id}.avif" />
 </svelte:head>
 
 <main class="mx-auto my-10 flex max-w-screen-xl flex-col justify-between gap-y-8">
@@ -57,7 +57,7 @@
 
 		<div class="border-border relative rounded-t-lg border">
 			<div class="bg-background/85 flex items-center justify-between rounded-t-lg p-3">
-				<span>esohasl.net</span>
+				<span>esohasl.vercel.app</span>
 				<div class="flex items-center gap-x-2">
 					{#if data.game_id !== '0'}
 						<Button

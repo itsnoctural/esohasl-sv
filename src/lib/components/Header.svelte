@@ -4,13 +4,23 @@
 </script>
 
 <header class="z-50 w-full">
+	<div
+		class="mx-auto mb-2 max-w-screen-xl rounded-lg bg-green-700 px-2 py-1 text-center text-white"
+	>
+		<span>Site is moved to</span>
+		<span class="font-medium text-sky-100">"esohasl.vercel.app"</span>
+		<span>domain,</span>
+		<span class="font-medium text-sky-100">".net"</span>
+		<span> domain has expired and won't work</span>
+	</div>
+
 	<div class="mx-auto mb-2 max-w-screen-xl rounded-lg bg-red-700 px-2 py-1 text-center text-white">
 		<a href="/sunset">esohasl's sunset has come. Click here to read</a>
 	</div>
 	<div
 		class="border-border bg-background/75 mx-auto flex h-14 w-full max-w-screen-xl items-center justify-between gap-x-1.5 rounded-xl border px-4"
 	>
-		<a class="text-lg font-semibold" href="/">esohasl.net</a>
+		<a class="text-lg font-semibold" href="/">esohasl.official</a>
 		<div class="flex items-center gap-x-1.5">
 			<Button
 				as="a"

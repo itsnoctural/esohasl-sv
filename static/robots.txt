@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.esohasl.net/sitemap.xml
+Sitemap: https://esohasl.vercel.app/sitemap.xml

@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<link rel="canonical" href="https://www.esohasl.net/" />
+	<link rel="canonical" href="https://esohasl.vercel.app/" />
 	<title>EsohaSL - Free Roblox Scripts</title>
 	<meta property="og:title" content="EsohaSL - Free Roblox Scripts" />
 </svelte:head>
